@@ -1,2 +1,2 @@
-document.querySelector("#myButton")   .addEventListener("click", function () {     alert("Hej från Grupp 2!");
+document.querySelector("#myButton")   .addEventListener("click", function () {     alert("Sammanfattning dag 3, student 3!");
   });
