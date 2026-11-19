@@ -1,2 +1,2 @@
-document.querySelector("#myButton")   .addEventListener("click", function () {     alert("Sammanfattning dag 3, student 3!");
+document.querySelector("#myButton")   .addEventListener("click", function () {     alert("Welcome to the world of Git!");
   });
